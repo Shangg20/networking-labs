@@ -2,7 +2,7 @@
 A professional collection of Cisco Packet Tracer labs focused on enterprise-level network architecture, redundancy protocols, and scalable routing solutions. This repository documents my technical proficiency in designing, configuring, and troubleshooting complex network infrastructures.
 
 ## Introduction
-"This repository serves as a technical portfolio of my networking expertise. It ranges from fundamental protocol implementations to a multi-site enterprise 'Capstone' project. Each lab includes full configuration files, topology diagrams, and technical documentation."
+This repository serves as a technical portfolio of my networking expertise. It ranges from fundamental protocol implementations to a multi-site enterprise 'Capstone' project. Each lab includes full configuration files, topology diagrams, and technical documentation.
 
 ### Technical Skills Covered
 #### Switching: VLANs, VTP, STP/RSTP, EtherChannel (LACP/PAgP), Inter-VLAN Routing (SVI & ROAS).
